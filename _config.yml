@@ -19,8 +19,8 @@ github: gserv
 # dribbble: username
 
 # avatar头像及Favicon
-avatar: avatar.png
-favicon: favicon.ico
+avatar: css/avatar.png
+favicon: css/favicon.ico
 
 # disqus 设置
 disqus:
