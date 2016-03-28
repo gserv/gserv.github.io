@@ -12,15 +12,15 @@ rss_url: /pages/feed.xml
 filter: 'category'
 
 # Social account
-twitter: masonsuyan
-# weibo:    ID
+twitter: eXtreme04581522
+weibo:    2534414370
 github: gserv
 # codepen:  username
 # dribbble: username
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: avatar.png
+favicon: favicon.ico
 
 # disqus 设置
 disqus:
