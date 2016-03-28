@@ -23,8 +23,8 @@ avatar: /syblog/css/avatar.png
 favicon: /syblog/css/favicon.ico
 
 # disqus 设置
-disqus:
-  shortname: syblogsyblog
+#disqus:
+#  shortname: syblogsyblog
 
 # google analytics 设置
 ga:
